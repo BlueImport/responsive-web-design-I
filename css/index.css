@@ -350,7 +350,7 @@ footer {
 /* Mobile Styling */
 
 @media screen and (max-width: 500px){
-}
+
 
     body .container{
     width: 100%;
@@ -409,4 +409,5 @@ header {
 .middle-img {
     width: 100%;
     display: flex;
+}
 }
